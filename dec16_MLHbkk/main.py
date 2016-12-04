@@ -1,5 +1,5 @@
 from flask import Flask, render_template, Response
-from capture_face import Capture
+from capture_base import Capture
 
 app = Flask(__name__)
 
