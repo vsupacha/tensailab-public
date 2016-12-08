@@ -16,5 +16,8 @@ A mini-workshop on November 26th, 2016 about how to implement machine learning a
 ## nov30_Wearable directory
 A short note from attending **How to make wearable device to global & Health tech** event. The event was hosted by NIA and TESA on November 30th, 2016 at NIA building.
 
-## dec16_MLHbkk directory
+## dec3_MLHbkk directory
 A short talk about streaming video using Raspberry Pi and OpenCV at the MLH Local Hack Bangkok. The event was hosted by [Enterprise Lab](http://www.enterpriselab.co/) on December 3rd, 2016 at PlayLab.
+
+## dec7_LoRaPhuket directory
+A short note from attending **Future Connectivity in Smart Cities: LoRaWAN** event. The event was hosted by NIA and TESA on December 7th, 2016 at NIA building.
