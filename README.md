@@ -21,3 +21,6 @@ A short talk about streaming video using Raspberry Pi and OpenCV at the MLH Loca
 
 ## dec7_LoRaPhuket directory
 A short note from attending **Future Connectivity in Smart Cities: LoRaWAN** event. The event was hosted by NIA and TESA on December 7th, 2016 at NIA building.
+
+## dec14_IndustryInsights directory
+A short note from attending **Industry Insights** event. The event was hosted by NIA and TESA on December 14th, 2016 at NIA building.
