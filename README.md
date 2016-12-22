@@ -24,3 +24,6 @@ A short note from attending **Future Connectivity in Smart Cities: LoRaWAN** eve
 
 ## dec14_IndustryInsights directory
 A short note from attending **Industry Insights** event. The event was hosted by NIA and TESA on December 14th, 2016 at NIA building.
+
+## dec21_InnovationFunding directory
+FAQ from attending **Thailand Research & Innovation Fund** event. The event was hosted by NIA and TESA on December 21st, 2016 at NIA building.
