@@ -27,3 +27,6 @@ A short note from attending **Industry Insights** event. The event was hosted by
 
 ## dec21_InnovationFunding directory
 FAQ from attending **Thailand Research & Innovation Fund** event. The event was hosted by NIA and TESA on December 21st, 2016 at NIA building.
+
+## dec2629_EEIcourse
+A collection of materials from a workshop for Chachoengsao Technical College supported by Electrical and Electronics Institute (EEI) with collaboration with TESA. The event was hosted during December 26th to 29th, 2016.
