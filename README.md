@@ -30,3 +30,6 @@ FAQ from attending **Thailand Research & Innovation Fund** event. The event was 
 
 ## dec2629_EEIcourse
 A collection of materials from a workshop for Chachoengsao Technical College supported by Electrical and Electronics Institute (EEI) with collaboration with TESA. The event was hosted during December 26th to 29th, 2016.
+
+## jan15_GoogleFormPython
+An example code using Python to extract information from a CSV file exported from Google Forms. This work is a part of career path survey for the Electrical Engineering curriculum improvement. 

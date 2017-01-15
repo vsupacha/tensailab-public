@@ -1,0 +1,189 @@
+"Timestamp","รหัสปีของเลขทะเบียน","สาขาที่เรียน","สาขาที่เกี่ยวข้องกับงานในปัจจุบัน","หน้าที่ของงานในปัจจุบันคืออะไร","มีใบประกอบวิชาชีพวิศวกรรมควบคุมหรือไม่","การมีใบประกอบวิชาชีพวิศวกรรมควบคุมมีประโยชน์ต่อหน้าที่การงานอย่างไร (หากมี)","วิชาที่เรียนไปแล้ว และคิดว่ามีประโยชน์ต่อหน้าที่การงาน (ตอบได้หลายวิชา)","วิชาในสาขาไฟฟ้าและคอมพิวเตอร์ที่อยากเรียนตอนนี้ (ตอบได้หลายวิชา)","วิชาที่ไม่ใช่วิศวกรรมที่อยากเรียนตอนนี้ (ตอบได้หลายวิชา)"
+"2017/01/04 9:24:09 PM GMT+7","51","ไฟฟ้าสื่อสาร","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","วิศวกรดูแล system และ application ที่ใช้ในงานออกแบบและพัฒนารถยนต์ โดยจะดูแลตั้งแต่การ implement ระบบ ไปจนกระทั่ง user เข้าใช้งานระบบ","มี","","Data Communication and Network
+Engineering Statistics
+Computer Programming (C language)
+Control System","SQL Database
+Java Programming","Digital Marketing
+Digital Business"
+"2017/01/04 9:25:38 PM GMT+7","54","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","วิศวกรไฟฟ้า PEA","มี","ได้ค่าใบ กว. ","พาวเวอร์เเพลน , hightvolt , protection and relay","",""
+"2017/01/04 9:30:44 PM GMT+7","52","ไฟฟ้ากำลัง","ระบบควบคุม","ดูแล , ปรับปรุง, งานโครงการ เกี่ยวกับระบบไฟฟ้าควบคุมของเครื่อง","มี","ไม่มี","Electrical sys. Design
+Industrial control
+Instrument
+Embedded
+Microprocessor design
+Control sys.
+Power system
+Commun
+Electrical machines
+การออกแบบวงจรดิจิดอล","Industrial automation sys.
+Digital commun
+เน้นทำ lab  หรือ งานproject ","เศรษฐศาสตร์"
+"2017/01/04 9:52:35 PM GMT+7","54","ไฟฟ้าสื่อสาร","อิเล็กทรอนิกส์","development","ไม่มี","","embedded , microcontroller, circuit, devices, drawing, c programming, etc.","oop,pcb design, antenna, java ,android, ios(swift programming),  embedded for IoT.",""
+"2017/01/04 10:03:41 PM GMT+7","55","ไฟฟ้าสื่อสาร","ไฟฟ้าสื่อสาร","ดูแลระบบสื่อสารการเดินอากาศ","ไม่มี","","Data communication, Wireless, Embedded system, communication system, ภาษาอังกฤษ","ืNetwork, antenna, Database, Microwave","หุ้น, การตลาด"
+"2017/01/04 10:08:06 PM GMT+7","ก่อน 50","อิเล็กทรอนิกส์","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","โปรแกรมเมอร์","ไม่มี","","โรบอท,คอมพิวเตอร์ ภาษาC","Web base (PHP) ,database structure,OS (unix)","Excel,marketing,management"
+"2017/01/04 10:10:24 PM GMT+7","55","ระบบควบคุม","ระบบควบคุม","Applications Engineer","ไม่มี","แต่ต้องใช้เเละมี CLAD (Certified LabVIEW association developer)","Measurements, Embedded systems, Model based system development, Control system, Circuit, Signals and systems.","Network design system.","Financial, Business management."
+"2017/01/04 10:25:24 PM GMT+7","53","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","วิศวกรไฟฟ้า ","ไม่มี",""," Power system analysis, Relay and Protection, High voltage, Control, Electrical Machine,","Power system analysis, Relay and Protection, High voltage, Control, Electrical Machine","english for business (formal)"
+"2017/01/04 10:37:17 PM GMT+7","51","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","ออกสเปกงานไฟฟ้ากำลังของระบบรถไฟฟ้าและควบคุมงานผู้รับเหมางานระบบ","มี","ใช้เพิ่มความน่าเชื่อถือและประโยชน์ในการทำงาน ควบคุมงาน","Power system, Power system analysis, electrical circuit, electrical system design, digital, relay coordination, power plant","Relay coordination, power system analysis, electrical system design","สังคม"
+"2017/01/04 10:58:21 PM GMT+7","51","ไฟฟ้าสื่อสาร","ไฟฟ้าสื่อสาร","ดูแลอุปกรณ์สื่อสาร เช่น FIBER OPTIC DWDM SDH MUX RTU เป็นต้น","มี","ต้องใช้เพื่อรับรองในการเข้าทำงานได้ตามกฎหมายกำหนด","Fundamental of communication,Wireless communication,Microcontroller,Embeded System ","JAVA programming , Communication instrument laboratory","Management"
+"2017/01/04 10:59:56 PM GMT+7","52","ไฟฟ้าสื่อสาร","ไฟฟ้าสื่อสาร","ตรวจสอบปัญหาลูกค้าที่ใช้งาน service ทั้ง voice และ Data","ไม่มี","","Data communication, ","วิชาเกี่ยวกับ Network ",""
+"2017/01/04 11:00:13 PM GMT+7","52","ไฟฟ้ากำลัง","ระบบควบคุม","วิศวกรควบคุม ","มี","มีมาตรฐานในการปฏิบัติหน้าที่","ระบบควบคุม ","","การเขียนหนังสือ เรียงความ"
+"2017/01/04 11:09:49 PM GMT+7","52","อิเล็กทรอนิกส์","ไฟฟ้าสื่อสาร","Network Engineer","ไม่มี","มี","Data Communication","Wireless Network","Fundamental Network"
+"2017/01/04 11:13:37 PM GMT+7","54","ระบบควบคุม","ระบบควบคุม","ออกแบบเครื่องจักรให้เหมาะกับชิ้นงาน","ไม่มี","เป็นมาตรฐานขึ้นเเค่นั้น","การเขียนโปรแกรมทุกแบบเลย","การออกแบบโครงสร้างโปรแกรม","การตลาด การขาย"
+"2017/01/04 11:18:46 PM GMT+7","52","ไฟฟ้าสื่อสาร","ไฟฟ้าสื่อสาร","Network engineer ","ไม่มี","","Datacom","",""
+"2017/01/04 11:20:32 PM GMT+7","53","ไฟฟ้าสื่อสาร","อิเล็กทรอนิกส์","พัฒนาซอฟต์แวร์สำหรับควบคุมมอเตอร์เจนเนอเรเตอร์ของรถไฮบริด","ไม่มี","ไม่มีประโยชน์","Embeded system
+Signal and system
+Data communication
+Digital signal processing
+Electronic and device
+Matlab & Simulink (by อ.ศุภชัย)
+Digital communication","Power electronic
+Electrical machine 2
+Data structure","Excel and VBA
+Project management"
+"2017/01/04 11:30:35 PM GMT+7","52","อิเล็กทรอนิกส์","ไม่เกี่ยวข้องกับวิศวกรรม","วิเคราะห์ระบบ เพื่อสร้างและพัฒนาโปรแกรม","ไม่มี","","ภาษาคอมพิวเตอร์ทุกภาษาสำคัญมากกก","database, big data, data model","microsoft word ,excel,power point"
+"2017/01/04 11:32:43 PM GMT+7","53","ไฟฟ้าสื่อสาร","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","Programmer","ไม่มี","","database, programming, oop, web app","AI","Basic accouting, Marketing"
+"2017/01/05 12:07:47 AM GMT+7","51","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","ออกแบบระบบไฟฟ้า (โรงงานและอื่นๆ)","มี","ในการออกแบบบังคับต้องมีใบ กว. ทำให้มีชื่อในการที่เราออกแบบนั้นๆ และสามารถอ้างอิงอนาคตได้","วิชาออกแบบระบบไฟฟ้า(ตอนปี 3) มีผลในการทำงานและวิชาอื่นๆ มีประโยชน์ 30%  ที่เหลือ เป็นประสบการณ์จากการทำงาน โดยวิชาที่เรียนมีผลด้านความคิดการทำงานในการวิเคราะห์ เหตุและผล","1.วิชาที่เกี่ยวกับสื่อสาร ที่จากนอกอาคารเข้ามาในอาคาร (เพราะภาคกำลังไม่มีเรียน แต่ตอนทำงาน design ต้องออกแบบด้วย)
+2.ออกแบบระบบแสงสว่าง (ไม่สำคัญมาก แต่รู้ไว้เป็นต้นทุนก็ดีครับ เพราะบางมหาลัยมีเรียน แต่เราไม่มีเรียนกัน)
+3.ออกแบบไฟฟ้าขั้นสูง (อยากรู้เทคนิคเพิ่มจากเดิม)","1.วิชาบริหารการจัดการคน (MBA)"
+"2017/01/05 1:02:30 AM GMT+7","ก่อน 50","ไฟฟ้าสื่อสาร","ไม่เกี่ยวข้องกับวิศวกรรม","ผู้จัดการ","ไม่มี","ไม่มี- งารประมวลผลสัญญาณไม่เห็นต่องใช้เลย","การคิด วิเคราะห์อย่างเป็นระบบ ทำให้เข้าใจปัญหา และแก้ไขได้หลากหลายรูปแบบ    เอาแค่พื้นฐานแนวคิดที่อาจารย์พร่ำสอนมาปรับก็พอแล้ว. ไม่ต้องถึงขนาด แควคูลัส ซิกแนล เซอร์กิต อาเทน่า. Am Fm หรอก","-  อิเล็กโตรแมก (ตอนเรียนมีหลายปัจจัยที่ทำให้เรียนไม่ค่อยเข้าใจอยากซ้ำอีกซักที)
+- อัลกอลิทึม
+- การบริหารโรงไฟฟ้า หรือระบบไฟฟ้าอุตสาหกรรมขนาดย่อม (ไม่รู้มีไหม)
+- การออกแบบวิศวกรรมเสียง
+- การออกแบบผลิตภัณฑ์ (ชื่อไม่ค่อยจะไฟฟ้าเลยเนอะ แต่ของใช้ส่วนใหญ่ก็เสียบปลัก ใส่ถแบตเตอร์รี่กันทั้งนั้น)
+- เดินระบบไฟฟ้าภาคปฎิบัติ (เรียนจบวิศวไฟฟ้ามา ไม่มีปัญญาแก้ไขไฟฟ้าเมนหลักบ้านตัวเอง. คิดดู)","- การบริหารโครงการ และความเป็นไปได้
+- ความปลอดภัยในงานควบคุบระบบ
+- จิตวิทยาองค์กร 
+- เศรษฐศาสตร์ "
+"2017/01/05 6:34:17 AM GMT+7","53","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","บริหารสัญญาโครงการงานก่อสร้างสถานีไฟฟ้าแรงสูง,งานก่อสร้างระบบสายส่ง 115kV","มี","เป็นข้อบังคับของหน่วยงานกำหนดให้วิศวกรต้องมีใบประกอบวิชาชีพฯ แต่ไม่ได้นำใช้งานเพื่ออ้างอิงใดๆ","High voltage , ","Protection & relay","ทักษะการเขียนรายงาน , การนำเสนอ , การพูด"
+"2017/01/05 7:17:06 AM GMT+7","52","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","ควบคุมงานออกแบบ มาตรฐานการติดตั้ง และตรวจสอบงาน ของระบบผลิตไฟฟ้าพลังงานแสงอาทิตย์บนหลังคา","มี","ควบคุมงานได้ รับรองการออกแบบและการคำนวณได้","Electrical system design
+Circuit analysis
+","High voltage
+Power Electronics","เกี่ยวกับการใช้สูตรคำนวณใน excel"
+"2017/01/05 7:39:19 AM GMT+7","ก่อน 50","ไฟฟ้าสื่อสาร","ระบบควบคุม","ออกแบบ ติดตั้ง ทดสอบ","ไม่มี","ทำให้มีความน่าเชื่อถือและมีมาตรฐาน","Machine vision, Measurement, programming","Machine vision, Measurement, ","Statistic"
+"2017/01/05 8:51:10 AM GMT+7","ก่อน 50","ไฟฟ้าสื่อสาร","ไม่เกี่ยวข้องกับวิศวกรรม","ผู้จัดการ","ไม่มี","ไม่มี- งารประมวลผลสัญญาณไม่เห็นต่องใช้เลย","การคิด วิเคราะห์อย่างเป็นระบบ ทำให้เข้าใจปัญหา และแก้ไขได้หลากหลายรูปแบบ    เอาแค่พื้นฐานแนวคิดที่อาจารย์พร่ำสอนมาปรับก็พอแล้ว. ไม่ต้องถึงขนาด แควคูลัส ซิกแนล เซอร์กิต อาเทน่า. Am Fm หรอก","-  อิเล็กโตรแมก (ตอนเรียนมีหลายปัจจัยที่ทำให้เรียนไม่ค่อยเข้าใจอยากซ้ำอีกซักที)
+- อัลกอลิทึม
+- การบริหารโรงไฟฟ้า หรือระบบไฟฟ้าอุตสาหกรรมขนาดย่อม (ไม่รู้มีไหม)
+- การออกแบบวิศวกรรมเสียง
+- การออกแบบผลิตภัณฑ์ (ชื่อไม่ค่อยจะไฟฟ้าเลยเนอะ แต่ของใช้ส่วนใหญ่ก็เสียบปลัก ใส่ถแบตเตอร์รี่กันทั้งนั้น)
+- เดินระบบไฟฟ้าภาคปฎิบัติ (เรียนจบวิศวไฟฟ้ามา ไม่มีปัญญาแก้ไขไฟฟ้าเมนหลักบ้านตัวเอง. คิดดู)","- การบริหารโครงการ และความเป็นไปได้
+- ความปลอดภัยในงานควบคุบระบบ
+- จิตวิทยาองค์กร 
+- เศรษฐศาสตร์ "
+"2017/01/05 8:55:51 AM GMT+7","ก่อน 50","อิเล็กทรอนิกส์","อิเล็กทรอนิกส์","ผลิตอุปกรณ์ทางการแพทย์","ไม่มี","","Embedded, Microcontroller, Electrical Circuit, Digital Circuit, Signal Processing","",""
+"2017/01/05 11:05:41 AM GMT+7","ก่อน 50","อิเล็กทรอนิกส์","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","IPTV Service Planning","ไม่มี","","Computer Programming
+Data Network Communication","Virtualization Technology (SDS, SDN, VNF, OpenStack, Docker)
+Full Stack Data Analytic (Big Data Platform, Data Analytic Tools, Math Model, Data Visualisation, BI tools)","Project Management
+English for Business (Listening, Speaking, Writing)
+Presentation & negotiation skill (Thai/Eng)"
+"2017/01/05 11:16:37 AM GMT+7","ก่อน 50","ไฟฟ้ากำลัง","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","Research Associate (Optics and Photonics)","มี","","hardly anything .. not because of the subject but the contents were not applicable to the real world.","numerical techniques for electromagnetism","optics, photonics, nanotechnology, excel, design and analysis of experiment"
+"2017/01/05 1:14:13 PM GMT+7","51","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","ออกแบบและคำนวณ","มี","ใช้ประการยื่นแบบ","Electrical System Design, Measurement and Instrument, High Voltage","Lighting Design, Lightning Protection Design",""
+"2017/01/05 2:48:39 PM GMT+7","53","ไฟฟ้ากำลัง","ไฟฟ้าสื่อสาร","Network Engineer","ไม่มี","","Data communication","",""
+"2017/01/05 4:29:18 PM GMT+7","51","ไฟฟ้าสื่อสาร","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","Automotive Test Engineer","มี","","Basic circuit and device ,2D&3D Drawing & Solid work, CAN Communication , Matlab, English ","Automotive system","Japanese language"
+"2017/01/05 5:43:39 PM GMT+7","ก่อน 50","ไฟฟ้าสื่อสาร","อิเล็กทรอนิกส์","ออกแบบซอฟต์แวร์ ที่ทำงานบนไมโครคอนโทรลเลอร์","ไม่มี","","c language, microcontroller sysytem, control system","java language, database","เศรษฐศาสตร์, แนวโน้มเทคโนโลยีในอนาคต"
+"2017/01/05 6:53:04 PM GMT+7","51","ไฟฟ้าสื่อสาร","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","Quality assuarance","มี","","signal","micro controller","excel แบบที่สอนเขียนโปรแกรม กราฟ database"
+"2017/01/05 8:20:54 PM GMT+7","55","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","ดูแลปรับปรุงเครื่องจักร","ไม่มี","","วงจรไฟฟ้า plc ","PLC protection&relay ","บัญชี หุ้น ไมโครซอฟท์ออฟฟิศ"
+"2017/01/05 9:51:02 PM GMT+7","55","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","","ไม่มี","","","",""
+"2017/01/05 9:51:30 PM GMT+7","52","ไฟฟ้าสื่อสาร","ไม่เกี่ยวข้องกับวิศวกรรม","นักบิน","ไม่มี","","Telecommunication subjects","","การเงินการลงทุน"
+"2017/01/05 9:53:26 PM GMT+7","51","ไฟฟ้าสื่อสาร","ไม่เกี่ยวข้องกับวิศวกรรม","ติวเตอร์","ไม่มี","","","การพัฒนาแอพพิเคชั่นในระบบมือถือ","วิชาที่เกี่ยวกับบริหารจัดการ"
+"2017/01/05 9:54:06 PM GMT+7","55","ไฟฟ้าสื่อสาร","ไฟฟ้ากำลัง","บำรุงรักษาระบบ","ไม่มี","","Power system,Measurement","Power electronic","กาาบริหาร"
+"2017/01/05 9:55:07 PM GMT+7","54","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","ผู้ประสานงานงานก่อสร้างสถานีและระบบจำหน่ายไฟฟ้า","มี","มีเพื่อผ่านเกณฑ์ของที่ทำงาน ส่วนอื่นยังไม่ได้ใช้","วิชาพื้นฐานทางไฟฟ้าด้านกำลังทุกวิชา","","วิชาสอนการใช้ภาษาสื่อสารในการทำงาน"
+"2017/01/05 9:55:10 PM GMT+7","55","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","วิศวกรโรงงาน","ไม่มี","ยังมีตอนนี้ แต่ถ้ามีจะดีต่ออนาคตครับ","แมชชีน การวัด ออกแบบ  ","การวัด พวกใช้การควบคุม iot  plc labview",""
+"2017/01/05 9:59:16 PM GMT+7","ก่อน 50","อิเล็กทรอนิกส์","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","Cooling system's service and project engineer","ไม่มี","","Machine 1-2, C programming","Labview","Accounting"
+"2017/01/05 10:02:38 PM GMT+7","54","ไฟฟ้าสื่อสาร","อิเล็กทรอนิกส์","Test engineer","ไม่มี","ไม่มี","เซอกิต communication","Signal communication digital image processing",""
+"2017/01/05 10:04:06 PM GMT+7","54","ไฟฟ้ากำลัง","อิเล็กทรอนิกส์","Design engineer","ไม่มี","","มีประโยชน์ พวกcircuit","เกี่ยวกับ electronic","English"
+"2017/01/05 10:04:38 PM GMT+7","ก่อน 50","ไฟฟ้าสื่อสาร","ไม่เกี่ยวข้องกับวิศวกรรม","บริการกิจการนำเข้า","ไม่มี","","เขียนโปรแกรม , Embedded ","Mobile communication","Management"
+"2017/01/05 10:05:01 PM GMT+7","ก่อน 50","อิเล็กทรอนิกส์","อิเล็กทรอนิกส์","Sr. Product Engineer","ไม่มี","","Circuit1,2","Sql database, basic logic thinking","Engineer tools, 7 habits, make decision, 8d report"
+"2017/01/05 10:05:02 PM GMT+7","54","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","Customer services","ไม่มี","","Power design, autocad","","ภาษาอังกฤษ"
+"2017/01/05 10:10:06 PM GMT+7","55","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","","มี","ใช้ในการสมัครเข้าองค์กรรัฐ","เซอร์กิต รีเลย์ เพาเวอร์แพลนท์ เพาเวอร์อนาไลสิส แมชชีน","โปรแกรม ดิกไซเล่น , เรื่องพลังงานทดแทนต่างๆให้ลึกกว่านี้",""
+"2017/01/05 10:11:23 PM GMT+7","54","ไฟฟ้าสื่อสาร","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","Design สายไฟในรถยนต์","ไม่มี","","วิชาพื้นฐานวิศวะ ทุกวิชา"," วิชาเกี่ยวกับพวกเขียนโปรแกรม ex. C mathlab","วิชาเกี่ยวกับเครื่องกล(เพราะเกี่ยวกับงานโดยตรง)"
+"2017/01/05 10:14:33 PM GMT+7","ก่อน 50","ไฟฟ้าสื่อสาร","ไม่เกี่ยวข้องกับวิศวกรรม","Data Center Management ","ไม่มี","ไม่มี","networking ","","IT management, ITIL"
+"2017/01/05 10:18:08 PM GMT+7","53","ไฟฟ้ากำลัง","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","Development engineer jewelry","ไม่มี","","ภาษาซี","","Excel สำหรับเขียนสูตร เป็นโปรแกรม"
+"2017/01/05 10:18:51 PM GMT+7","51","ไฟฟ้ากำลัง","ไฟฟ้าสื่อสาร","พัฒนาการเชื่อมต่อของมิเตอร์กับระบบอ่านหน่วยไฟฟ้าโดยใช้การสื่อสารประเภทต่างๆ","มี","องค์กรบังคับ","วงจรไฟฟ้า ","Communication","Algorithm"
+"2017/01/05 10:21:12 PM GMT+7","52","ไฟฟ้าสื่อสาร","ไฟฟ้าสื่อสาร","Network Engineering","ไม่มี","","","ภาษาc","Management"
+"2017/01/05 10:21:51 PM GMT+7","53","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","","มี","","power systems analysis 
+high voltage engineering 
+protection and relay","power systems analysis ",""
+"2017/01/05 10:23:20 PM GMT+7","54","ไฟฟ้ากำลัง","ไม่เกี่ยวข้องกับวิศวกรรม","ทำทุรกิจส่วนตัว","ไม่มี","","","",""
+"2017/01/05 10:23:32 PM GMT+7","54","ไฟฟ้ากำลัง","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","Design Mold","ไม่มี","","English , Measurement,static,Auto cad","Auto cad","English "
+"2017/01/05 10:25:50 PM GMT+7","ก่อน 50","ไฟฟ้ากำลัง","ระบบควบคุม","งานออกแบบเครื่องจักร automation","มี","ไม่มีผลต่องานในอุตสาหกรรมชิ้นส่วนอิเล็กทรอนิกส์","เกี่ยวกับระบบควบคุมอัตโนมัติต่างๆ","บางวิชาไม่เคยมีเรียนในชั้นเรียน แต่มีใช้งานแพร่หลายในอุตสาหกรรมเช่น PLC, HMI,camera image processing,Labview,VB,C#,C++","ไม่แน่ใจ"
+"2017/01/05 10:27:36 PM GMT+7","54","ไฟฟ้าสื่อสาร","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","software engineer","ไม่มี","","matlab, image processing, c programming","matlab","ภาษาอังกฤษ"
+"2017/01/05 10:30:14 PM GMT+7","ก่อน 50","ไฟฟ้าสื่อสาร","ไม่เกี่ยวข้องกับวิศวกรรม","อาจารย์สาขาวิทยาการคอมพิวเตอร์","ไม่มี","","วิชาพื้นฐานทางวิศวกรรม","Math for Engineer","Data analysis"
+"2017/01/05 10:31:29 PM GMT+7","54","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","วิศวกรไฟฟ้า","ไม่มี","ตอนนี้ไม่มี","สถิติ,การวัด,วิชาด้านไฟฟ้ากำลังได้ใช้หมด","PLC","บริหาร,การตลาด"
+"2017/01/05 10:33:45 PM GMT+7","54","ไฟฟ้ากำลัง","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","วิศวกรวางแผนงานติดตั้ง งานจะเกี่ยวกับการวางแผน/ควบคุม ข้อมูลของงานติดตั้งในองค์กรทั้งหมด ความรู้ที่ใช้แน่ๆ คือ Drawing ทั้งทางเครื่องกลและไฟฟ้า นอกนั้นเป็นความรู้ใหม่เกือบทั้งหมด ส่วนที่อยากจะเน้นให้มีการสอนเพิ่ม คงจะเป็น การใช้ Excel เพราะทำงานนี่ใช้ Excel เยอะมากๆ","ไม่มี","มีประโยชน์อย่างมาก เพราะทางบริษัทต้องการคนมีใบ กว. ซึ่งตอนนี้กำลังเตรียมตัวจะไปสอบใบ กว. อยู่ (ปล. ถ้ามี ใบ กว. ทางบริษัทจะเพิ่มเงินเดือนค่าใบ กว. ให้)","Drawing, Electronic","",""
+"2017/01/05 10:34:54 PM GMT+7","51","ไฟฟ้าสื่อสาร","ไฟฟ้ากำลัง","ซ่อมบำรุงระบบไฟฟ้าโรงงาน ","มี","ไม่มีความจำเป็นต้องใช้","ภาษาซี, control, circuit, electromac,measurement,opto","ภาษาซี, opto, control","ภาษาอังกฤษ"
+"2017/01/05 10:40:02 PM GMT+7","ก่อน 50","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","","มี","รับผิดชอบงานได้มากขึ้น","Power System, Power Electronic, Power Protection, Machine, Fluid, ","",""
+"2017/01/05 10:46:04 PM GMT+7","55","อิเล็กทรอนิกส์","อิเล็กทรอนิกส์","Research and development about optical components ","ไม่มี","","Optoelectronics, Semiconductor Fabrication, Electronics circuit, Basic Devices","Embedded, Robotics, Laser principle ","Advanced English "
+"2017/01/05 10:54:50 PM GMT+7","55","ไฟฟ้าสื่อสาร","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","Software developer","ไม่มี","","C-Programming, Microcontroller, Model base, m-script programming, Signal and system, Wireless and mobile","VHDL, Embedded system, Object-oriented programming, Agile software devlopement","Presentation, Japanese language, English language"
+"2017/01/05 10:56:29 PM GMT+7","54","ไฟฟ้าสื่อสาร","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า"," Design Engineering ","ไม่มี","เงินเดือนเพิ่ม","Drawing,Circuit","","ภาษาญี่ปุ่น"
+"2017/01/05 10:57:09 PM GMT+7","ก่อน 50","ระบบควบคุม","ระบบควบคุม","อาจารย์","ไม่มี","","Linear Control System, Introduction to robotics,
+Measurement","Artificial Intelligence, SCADA, Internet of things, Machine design, CAD/CAM, Aerospace,  etc","Management, Business plan, MBA, "
+"2017/01/05 10:58:58 PM GMT+7","51","ไฟฟ้ากำลัง","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","QA& Technics Engineer","ไม่มี","","Electronic circuits, Lab, Electrical device, Stat","Electromagnetic","IE"
+"2017/01/05 11:04:23 PM GMT+7","51","อิเล็กทรอนิกส์","ไม่เกี่ยวข้องกับวิศวกรรม","SYSTEM ENGINEER","ไม่มี","","ภาษาซี, จาวา, MACHINE LEARNING","Electromenetic","Calculus, Linear algebra "
+"2017/01/05 11:08:24 PM GMT+7","ก่อน 50","ไฟฟ้าสื่อสาร","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","New technology explorer ","ไม่มี","","Data Communication","Networking, Database, System Administrator and Java Programing","จิตวิทยา, การจัดการ, Business Law"
+"2017/01/05 11:15:41 PM GMT+7","ก่อน 50","ไฟฟ้าสื่อสาร","อิเล็กทรอนิกส์","Process Engineer","ไม่มี","","Stat, control, QA, SW c++, drawing, ","Simulation program (circuit)","Finance, operation management, strategic management"
+"2017/01/05 11:31:22 PM GMT+7","55","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","","มี","","electrical machines,protection relay","machine vison","management,marketing"
+"2017/01/05 11:59:26 PM GMT+7","ก่อน 50","ไฟฟ้าสื่อสาร","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","System integration test","ไม่มี","","Matlab, C programming, control system, circuit, microcontroller, digital","Software testing","Finance, project management"
+"2017/01/06 12:31:19 AM GMT+7","ก่อน 50","ไฟฟ้าสื่อสาร","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","Group Manager for Embeded software development","ไม่มี","","C programming, feedback control, microcontroller","feedback control ","AI, deep learning,  Compilers"
+"2017/01/06 12:38:40 AM GMT+7","55","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","sales engineer","ไม่มี","เพิ่มโอกาสในการทำงานในสายไฟฟ้ากำลังมากขึ้น ","High volt ,Electrical and design Electrical circuit, Power plant , Protection and relay,Drawing","Underground and Overhead Transmission line","Logistic , คดีทางแพ่งและคดีทางอาญาในงานวิศวกรรม"
+"2017/01/06 12:53:06 AM GMT+7","55","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","ควบคุมงานระบบ","ไม่มี","ใช้ในการเซ็นแบบ งานระบบได้","Design ","เพิ่ม Lab ครับ ให้มีหลากหลายมากกว่านี้","เกี่ยวกับ โครงสร้าง หรือ ระบบสาธารณูปการ"
+"2017/01/06 1:56:12 AM GMT+7","54","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","ซ่อมบำรุงระบบไฟฟ้าอุตสาหกรรมเคมี","ไม่มี","","Machine I & II/ Electrical Design/ ","",""
+"2017/01/06 2:19:43 AM GMT+7","55","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","","ไม่มี","","รีเลย์ ","Power plant","อังกฤษ"
+"2017/01/06 4:23:29 AM GMT+7","55","ไฟฟ้ากำลัง","อิเล็กทรอนิกส์","service engineer ","ไม่มี","","micro processor ","plc","management"
+"2017/01/06 5:54:59 AM GMT+7","51","ไฟฟ้ากำลัง","อิเล็กทรอนิกส์","Process Engineer","ไม่มี","","Hard disk drive เพราะทำงานเกี่ยวกับอุตสาหกรรมนี้","",""
+"2017/01/06 6:16:07 AM GMT+7","ก่อน 50","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","วิศวกร การไฟฟ้าส่วนภูมิภาค","มี","เป็นคุณสมบัติก่อนเข้างาน","Power  plant ","พลังงานทดแทน","เศรษฐศาสตร์,E-marketing "
+"2017/01/06 6:25:10 AM GMT+7","ก่อน 50","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","Sale director","ไม่มี","","","Power elect , control system, ","Principle communication"
+"2017/01/06 7:11:28 AM GMT+7","54","ไฟฟ้ากำลัง","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","Design part of truck by CATIA program","ไม่มี","It is not important because this company dose not use","It is not benefit because It does not match with I used to study","The subject about robot","-"
+"2017/01/06 7:21:10 AM GMT+7","ก่อน 50","อิเล็กทรอนิกส์","อิเล็กทรอนิกส์","Engineering research","ไม่มี","","circuit, stat, Drawing","Control","ภาษาญี่ปุ่น"
+"2017/01/06 7:23:44 AM GMT+7","55","ไฟฟ้ากำลัง","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","Quality management Engineer","ไม่มี","","Drawing  Circuit Device Measurements Control signal  C Laboratory ","PLC. Relays ","การใช้งาน Microsoft. การพรีเซนต์
+การสรุกปจับใจความร่ยงานหรือหารประชุม.  "
+"2017/01/06 7:29:24 AM GMT+7","ก่อน 50","ระบบควบคุม","ไฟฟ้ากำลัง","Electrical Project Engineer","มี","ใช้ในการสมัครงาน","Measurement, Electrical machine, Power system,C Programming","Machine learning.","Finance"
+"2017/01/06 7:39:19 AM GMT+7","54","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","วิศวกร ","มี","เพิ่มความรู้และความน่าเชื่อถือในการทำงาน","Power system highvoltage protection relay","",""
+"2017/01/06 7:40:09 AM GMT+7","55","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","Design , site manager ","ไม่มี","เพิ่มเงิน และ เพิ่มความรับผิดชอบในการทำงาน","Power system analysis, design , power plant , control ","อลูมิเนชั่น","บริหารจัดการ"
+"2017/01/06 7:47:24 AM GMT+7","55","ไฟฟ้าสื่อสาร","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","Software Engineer","ไม่มี","","ภาษาซี อังกฤษ คอนโทรล ดาต้าคอม ","Embeded ","ภาษาจีน ญี่ปุ่น บริหาร"
+"2017/01/06 7:56:15 AM GMT+7","ก่อน 50","ไฟฟ้าสื่อสาร","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","Qaulity Engineer","ไม่มี","","Statistic , circuit ","Circuit , semiconductor , ","ภาษาที่ 3 (จีน ญี่ปุ่น)"
+"2017/01/06 8:00:07 AM GMT+7","ก่อน 50","ไฟฟ้ากำลัง","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","ควบคุมกระบวนการผลิต","มี","ไม่มี","electronic device, Autocad, data communication , circuit","circuit, electronics device","logistic, supply chain"
+"2017/01/06 8:07:52 AM GMT+7","51","อิเล็กทรอนิกส์","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","Product Development Engineer","ไม่มี","","","PLC","ความรู้ทางด้านโรงงานอุตสาหกรรม"
+"2017/01/06 8:18:33 AM GMT+7","55","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","วิศวกรสายส่งแรงสูง","ไม่มี","การอยู่ไฟฟ้ากำลังจะแสดงถึงการเป็นวิศวกร และจะต้องรอบคอบในการออกแบบ","วิชาที่มีประโยชน์นั้นขึ้นกับสายงานที่ทำระบบไฟฟ้าแรงสูง เช่น high voltage, power analysis, protection and relay ระบบไฟฟ้าแรงต่ำ design","power analysis system","การประมาณการของตลาด"
+"2017/01/06 8:21:33 AM GMT+7","55","ไฟฟ้ากำลัง","ไม่เกี่ยวข้องกับวิศวกรรม","ฝ่ายผลิตรายการโทรทัศน์","ไม่มี","มีประโยชน์ต่อการทำงานหากทำงานด้านวิศวะทำให้เราสามารถตัดสินใจได้ และมีเงินเดือนเพิ่มขึ้น","ทุกวิชามีความสำคัญค่ะ ถึงแม้จะไม่ได้ทำงานเกี่ยวกับวิศวะแต่ วิศวะก็เป็นพื้นฐานที่สอนให้รู้จักคิดรุ้จักทำ","เกี่ยวกับโปรแกรมต่างๆ","ภาษาอังกฤษ"
+"2017/01/06 8:47:15 AM GMT+7","ก่อน 50","อิเล็กทรอนิกส์","ไม่เกี่ยวข้องกับวิศวกรรม","Analyst","ไม่มี","","ทุกวิชา","ไม่มี","Finance"
+"2017/01/06 9:14:03 AM GMT+7","ก่อน 50","อิเล็กทรอนิกส์","อิเล็กทรอนิกส์","Test engineer","ไม่มี","","ภาษา C (อยากให้มีการเพิ่มเติมภาษาอื่นๆ เช่น C#, python, basic), micro, embedded, electronic circuits, devices ,digital และวิชาที่เกี่ยวข้องกับการเขียนโปรแกรม","PLC","English"
+"2017/01/06 9:23:33 AM GMT+7","54","ไฟฟ้ากำลัง","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","ตรวจสอบ สเปคอุปกรณ์ก่อนทำการสั่งซื้อสินค้าทั้งในและต่างประเทศ  ติดต่อ ประสานงานกับทาง shipping และดูแลจนกระทั่งสินค้ามาส่งที่site งาน จนจบโครงการ","ไม่มี","","วิชาด้านอุตสาหการได้นำมาใช้ในการบริหารจัดการในโรงงานได้เป็นอย่างดี","",""
+"2017/01/06 9:49:39 AM GMT+7","ก่อน 50","อิเล็กทรอนิกส์","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","Database Admin","ไม่มี","","","",""
+"2017/01/06 10:04:01 AM GMT+7","54","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","วิเคราะห์ราคาโครงการโรงไฟฟ้าในประเทศเพื่อนบ้าน","มี","การทำงานให้หน่วยงานภาครัฐจำเป็นต้องมีใบ กว.","Computer programming, Electronic circuit","Computer Programming ","Finance บริหาร"
+"2017/01/06 10:13:14 AM GMT+7","55","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","ออกแบบระบบไฟฟ้า แรงสูง แรงต่ำ","ไม่มี","ถูกต้องตามกฎหมาย","Power system , Design ,Circuit , Control , High Volt, ","",""
+"2017/01/06 1:31:58 PM GMT+7","ก่อน 50","ไฟฟ้าสื่อสาร","ไม่เกี่ยวข้องกับวิศวกรรม","Solution Planner","ไม่มี","","signal, drawing, network, basic programming ","-","Digital Marketing, Finance, Business Management"
+"2017/01/06 2:19:49 PM GMT+7","ก่อน 50","ไฟฟ้ากำลัง","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","ควบคุมกระบวนการผลิต","มี","ไม่มี","electronic device, Autocad, data communication , circuit","circuit, electronics device","logistic, supply chain"
+"2017/01/06 2:31:05 PM GMT+7","52","อิเล็กทรอนิกส์","อิเล็กทรอนิกส์","ตรวจสอบเครื่องจักรก่อนเข้าไลน์ และควบคุม ESD","ไม่มี","มีผลต่อการพิจารณาการรับเข้าทำงาน","","Micro controller","Business Management"
+"2017/01/06 5:53:43 PM GMT+7","ก่อน 50","ไฟฟ้ากำลัง","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","ควบคุมกระบวนการผลิต","มี","ไม่มี","electronic device, Autocad, data communication , circuit","circuit, electronics device","logistic, supply chain"
+"2017/01/06 6:37:19 PM GMT+7","ก่อน 50","ไฟฟ้ากำลัง","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","ควบคุมกระบวนการผลิต","มี","ไม่มี","electronic device, Autocad, data communication , circuit","circuit, electronics device","logistic, supply chain"
+"2017/01/06 8:19:30 PM GMT+7","55","ไฟฟ้าสื่อสาร","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","Software Engineer","ไม่มี","","ภาษาซี อังกฤษ คอนโทรล ดาต้าคอม ","Embeded ","ภาษาจีน ญี่ปุ่น บริหาร"
+"2017/01/06 8:28:46 PM GMT+7","ก่อน 50","อิเล็กทรอนิกส์","อิเล็กทรอนิกส์","Sourcing Engineer","มี","ไม่ได้ใช้","Electronic Circuit
+Electrical Machines
+Electric Instrument + Measurement
+Industrial Control + Instrument","Elect Engineer Design","Management "
+"2017/01/06 8:41:06 PM GMT+7","ก่อน 50","ไฟฟ้ากำลัง","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","ควบคุมกระบวนการผลิต","มี","ไม่มี","electronic device, Autocad, data communication , circuit","circuit, electronics device","logistic, supply chain"
+"2017/01/06 10:16:03 PM GMT+7","53","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","Electrical Design Engineer","ไม่มี","","Electrical Design System
+High voltage
+Circuit
+lab","Protection
+Illumination system","Business management"
+"2017/01/06 10:16:31 PM GMT+7","54","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","Facility ดูแลระบบไฟฟ้าโรงงาน","ไม่มี","","Design, Circuit, Relay protection,Power system ","Relay Protection","Microsoft Office, English Writing"
+"2017/01/06 10:38:25 PM GMT+7","53","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","นักศึกษาปริญญาโท","ไม่มี","","Power System Analysis, Electrical Machine, Power Electronics, Electrical circuit, Numerical method (สำหรับการทำวิจัย)","","Power System Analysis programming ต่างๆ เช่น DigSilent (ที่ EGAT ใช้), Power World Simulation, Matlab"
+"2017/01/06 10:54:59 PM GMT+7","ก่อน 50","ไฟฟ้าสื่อสาร","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","Software engineer","ไม่มี","","Embedded system, Communication and Networking","Big Data, Data mining, AI",""
+"2017/01/07 1:28:54 PM GMT+7","52","ไฟฟ้าสื่อสาร","ไฟฟ้าสื่อสาร","วิศวกรดูแลแก้ไขปัญหาด้านเทคนิคตาม Complaint ที่ลูกค้าแจ้งมา (ที่บริษัท AIS)","ไม่มี","ไม่มีผลกับหน้าที่ที่ทำงานอยู่ครับ","วิชา Wireless and Mobile Network และ Data Communication","วิชา Wireless and Mobile Network และ Data Communication","วิชาที่เกี่ยวกับ Electronics"
+"2017/01/07 1:49:15 PM GMT+7","ก่อน 50","อิเล็กทรอนิกส์","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","Reliability Engineer","ไม่มี","","","",""
+"2017/01/07 3:31:12 PM GMT+7","53","ไฟฟ้าสื่อสาร","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","software engineer","ไม่มี","เงินเดือนเพิ่มขึ้น","ดิจิตอล ไมโครโพรเซสเซอ ดาต้าโฟล์ว ภาษาที่3","โปรแกรมมิ่ง","ภาษาญี่ปุ่น"
+"2017/01/07 10:41:56 PM GMT+7","ก่อน 50","อิเล็กทรอนิกส์","ไม่เกี่ยวข้องกับวิศวกรรม","Game Programmer","ไม่มี","","","OS, Math for Programming",""
+"2017/01/07 11:26:12 PM GMT+7","53","ไฟฟ้ากำลัง","ระบบควบคุม","Maintenance Engineer","ไม่มี","","PLC, Robot control","PLC, Rasbery pi control","จิตวิทยาสังคม"
+"2017/01/07 11:26:21 PM GMT+7","53","ไฟฟ้ากำลัง","ระบบควบคุม","Maintenance Engineer","ไม่มี","","PLC, Robot control","PLC, Rasbery pi control","จิตวิทยาสังคม"
+"2017/01/07 11:50:53 PM GMT+7","54","ไฟฟ้ากำลัง","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","","ไม่มี","","","",""
+"2017/01/08 12:41:22 AM GMT+7","53","ไฟฟ้ากำลัง","ระบบควบคุม","โปรเจคเอนจิเนีย เขียนระบบ PLC & Scada","ไม่มี","","Machine , Control , Communication","Network System , Server & database",""
+"2017/01/08 6:46:21 AM GMT+7","ก่อน 50","ไฟฟ้ากำลัง","ไฟฟ้ากำลัง","วิศวกรไฟฟ้า","มี","ไม่ได้ใช้ในงานประจำ แต่ใช้ในงานนอกครับ","Electrical system design, power plant, Illumination calculation","Electrical system design, power plant, Illumination calculation","การจัดการ, การบัญชี, กฏหมายธุรกิจ"
+"2017/01/08 10:16:41 AM GMT+7","54","ไฟฟ้าสื่อสาร","อิเล็กทรอนิกส์","Production Engineer","ไม่มี","","Electronic circuit, Electronic Device, Statistic,","",""
+"2017/01/08 11:22:49 AM GMT+7","54","ไฟฟ้ากำลัง","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","","ไม่มี","","","",""
+"2017/01/08 4:25:00 PM GMT+7","54","ไฟฟ้ากำลัง","วิศวกร แต่ไม่ใช่สาขาไฟฟ้า","","ไม่มี","","","",""
+"2017/01/08 7:12:14 PM GMT+7","ก่อน 50","อิเล็กทรอนิกส์","อิเล็กทรอนิกส์","Senior engineer technical support production","ไม่มี","","electrical circuit","",""
+"2017/01/08 7:31:35 PM GMT+7","50","ไฟฟ้ากำลัง","อิเล็กทรอนิกส์","Production Engineer","มี","ใช้รับรองคุณวุฒิในการประกอบวิชาชีพ","Electronic circuit, Power system, Drawing","Computer program","Management"
+"2017/01/09 8:27:31 AM GMT+7","52","ไฟฟ้าสื่อสาร","ไฟฟ้าสื่อสาร","ดูแลอุปกรณ์สื่อสาร","ไม่มี","","Fundamental communications, Data com","Database","Marketing "
+"2017/01/13 4:10:57 PM GMT+7","ก่อน 50","ไฟฟ้าสื่อสาร","อิเล็กทรอนิกส์","Failure analysis","ไม่มี","มีทางเลือกในการประกอบอาชีพมากขึ้น","HDD, Image processing, Micro controller, Digital processing, Signal processing ","Problem solving, Data Mining, Cause and effect ","English speaking/reading/writing/listening. "
+"2017/01/14 12:16:18 AM GMT+7","54","ไฟฟ้าสื่อสาร","อิเล็กทรอนิกส์","Production Engineer","ไม่มี","ไม่มีผล","วงจรไฟฟ้าพื้นฐาน เขียนแบบเบื้องต้น","Program PLC","ภาษาอังกฤษ  ญี่ปุ่น"
