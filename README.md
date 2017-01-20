@@ -33,3 +33,6 @@ A collection of materials from a workshop for Chachoengsao Technical College sup
 
 ## jan15_GoogleFormPython
 An example code using Python to extract information from a CSV file exported from Google Forms. This work is a part of career path survey for the Electrical Engineering curriculum improvement. 
+
+## jan18_VERAtalk
+A short note summarized from **VERA - Thai EV* event. The event was hosted by NIA and TESA on January 18th, 2017 at NIA building.
