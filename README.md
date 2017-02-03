@@ -36,3 +36,12 @@ An example code using Python to extract information from a CSV file exported fro
 
 ## jan18_VERAtalk
 A short note summarized from **VERA - Thai EV* event. The event was hosted by NIA and TESA on January 18th, 2017 at NIA building.
+
+## jan24_IndServProvider
+A short note from attending **Industry Service Provider** meeting. The event was hosted by The Institute of Research Development and Innovation for Industry on January 24th, 2017. 
+
+## jan25_MakingMoneyIoT
+A short note from attending **Making Money from IoT Business** event. The event was hosted by Innovation Center, a joint unit between SME Development Bank and KMITL on January 25th, 2017.
+
+## feb1_BusinessIoT
+A short note from attending **Sparking Business Idea with IoT** event. The event was hosted by Innovation Center, a joint unit between SME Development Bank and KMITL on February 1st, 2017.
