@@ -13,14 +13,15 @@ def main():
 # URL for data collection
 @app.route('/submit')
 def submit():
-    id = request.args.get("id", "")
+    station = request.args.get("station", "")    
+    tag = request.args.get("tag", "")
     result = {'status':'ERR'}
     return json.dumps(result)
 
 # URL for data query
 @app.route('/query')
 def query():
-    id = request.args.get("id", "")
+    tag = request.args.get("tag", "")
     result = {'status':'ERR'}
     return json.dumps(result)
 
@@ -32,7 +33,7 @@ if __name__ == '__main__':
         _id INTEGER PRIMARY KEY,
         timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,
         station INTEGER,
-        product TEXT)''')
+        tag TEXT)''')
     conn.commit()
     conn.close()
     app.run('0.0.0.0')

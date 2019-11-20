@@ -13,15 +13,15 @@ def main():
 @app.route('/submit')
 def submit():
     station = request.args.get("station", "")
-    id = request.args.get("id", "")
+    tag = request.args.get("tag", "")
     result = {'status':'ERR'}
-    if station != "" and id != "":        
+    if station != "" and tag != "":        
         result['status'] = 'OK'
         station = int(station)
         conn = sqlite3.connect('nov15.db')
         c = conn.cursor()
-        c.execute('''INSERT INTO products(station,product) 
-            VALUES (%d, "%s")'''%(station,id))
+        c.execute('''INSERT INTO products(station,tag) 
+            VALUES (%d, "%s")'''%(station,tag))
         conn.commit()
         conn.close()
     return json.dumps(result)
@@ -29,14 +29,14 @@ def submit():
 # URL for data query
 @app.route('/query')
 def query():
-    id = request.args.get("id", "")
+    tag = request.args.get("tag", "")
     result = {'status':'ERR'}
-    if id != "":
+    if tag != "":
         result['status'] = 'OK'
         conn = sqlite3.connect('nov15.db')
         c = conn.cursor()
-        c.execute('''SELECT * FROM products WHERE product = "%s"'''%(id))
-        result['id'] = id
+        c.execute('''SELECT * FROM products WHERE tag = "%s"'''%(tag))
+        result['tag'] = tag
         result['station'] = []
         result['timestamp'] = []
         rows = c.fetchall()
@@ -55,8 +55,8 @@ if __name__ == '__main__':
              (_id INTEGER PRIMARY KEY, 
              timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,
              station INTEGER,
-             product TEXT)''')
+             tag TEXT)''')
     conn.commit()
     conn.close()
+    # start web service
     app.run('0.0.0.0')
-    

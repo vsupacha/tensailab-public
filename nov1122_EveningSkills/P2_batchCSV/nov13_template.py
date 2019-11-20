@@ -28,8 +28,12 @@ def extract_csv(files):
         print(f + ' is CSV file')
     return records
 
+def gen_sumfile(records):
+    print(records)
+
 # main program
 if __name__=='__main__':
     files = scan_folder(folder)
     if len(files['CSV']) > 0:
         records = extract_csv(files['CSV'])
+        gen_sumfile(records)        

@@ -8,8 +8,8 @@ import winsound
 # source preparation: image file, video file, camera
 cap = cv2.VideoCapture(0)
 Barcodes = []
-with open('products.csv', 'a+', newline='') as csvfile:
-    fieldnames = ['timestamp', 'id']
+with open('products.csv', 'w', newline='') as csvfile:
+    fieldnames = ['timestamp', 'tag']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     writer.writeheader()
 
@@ -22,15 +22,15 @@ while True:
     # extract QR code from image
     barcodes = decode(gray_img)
     for barcode in barcodes:
-        data = barcode.data.decode('utf8')
-        if data not in Barcodes: 
-            Barcodes.append(data)
+        tag = barcode.data.decode('utf8')
+        if tag not in Barcodes: 
+            Barcodes.append(tag)
             t = datetime.now()
-            print(str(t) + ' : ' + data)
-            with open('products.csv', 'a+', newline='') as csvfile:
-                fieldnames = ['timestamp', 'id']
+            print(str(t) + ' : ' + tag)
+            with open('products.csv', 'a', newline='') as csvfile:
+                fieldnames = ['timestamp', 'tag']
                 writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                writer.writerow({'timestamp': str(t), 'id': data})
+                writer.writerow({'timestamp': str(t), 'tag': tag})
             winsound.Beep(2000, 200)
     # preview image and update GUI
     cv2.imshow('Preview', img)

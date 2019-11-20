@@ -24,24 +24,25 @@ def scan_folder(folder):
 # function to extract CSV contents
 def extract_csv(files):
     records = []
-    id_list = []
+    tag_list = []
     for f in files:
         fname = './data/' + f
         with open(fname, newline='') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
-                #print(f,row['timestamp'], row['id'])
-                if row['id'] not in id_list:
-                    id_list.append(row['id'])
+                #print(f,row['timestamp'], row['tag'])
+                if row['tag'] not in tag_list:
+                    tag_list.append(row['tag'])
                     machine = f.split('.')[0]
-                    new_record = {'id':row['id'], machine:row['timestamp']}
+                    new_record = {'tag':row['tag'], machine:row['timestamp']}
                     records.append(new_record)
                 else:
                     for record in records:
-                        if record['id'] == row['id']:
+                        if record['tag'] == row['tag']:
                             machine = f.split('.')[0]
                             record[machine] = row['timestamp']
                             break
+    print(records)
     return records
 
 def gen_sumfile(records):
@@ -49,11 +50,23 @@ def gen_sumfile(records):
     wb = Workbook()
     ws1 = wb.active
     ws1.title = 'Raw data'
-    ws1['A1'] = 'id'
-    ws1['B1'] = 'station1'
-    ws1['C1'] = 'station2'
+    # prepare header row
+    ws1['A1'] = 'tag'
+    stations = list(records[0].keys())
+    stations.pop(stations.index('tag'))
+    stations.sort()
+    colIdx = 'A'
+    for station in stations:
+        colIdx = chr(ord(colIdx) + 1) 
+        cellIdx = str(colIdx) + '1'
+        ws1[cellIdx] = station
+    # add data as rows
     for record in records:
-        ws1.append([record['id'],record['station1'],record['station2'], '=A1'])
+        rowlist = [record['tag']]
+        for station in stations:
+            rowlist.append(record[station])
+        ws1.append(rowlist)
+    # create summary worksheet
     ws2 = wb.create_sheet(title='Summary')
     ws2['A1'] = 'Number of products'
     ws2['B1'] = len(records)
@@ -76,4 +89,4 @@ if __name__=='__main__':
     files = scan_folder(folder)
     if len(files['CSV']) > 0:
         records = extract_csv(files['CSV'])
-    gen_sumfile(records)
+        gen_sumfile(records)
