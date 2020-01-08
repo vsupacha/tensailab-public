@@ -4,7 +4,7 @@ from bleak import discover
 import paho.mqtt.client as mqtt
 import json
 
-topic = '/tgr2020/jan08/data/1'
+topic = '/tgr2020/jan08/data/99'
 
 async def scan(mac_addrs, queue):
     while True:
@@ -31,7 +31,7 @@ def on_disconnect(client, userdata, rc):
     print(userdata)
 
 async def publish(queue):
-    client = mqtt.Client(client_id='Supachai')
+    client = mqtt.Client(client_id='qwerty')
     client.connect('202.139.192.75')
     client.on_connect = on_connect
     client.on_message = on_message
