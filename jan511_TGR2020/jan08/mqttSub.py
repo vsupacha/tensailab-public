@@ -2,8 +2,8 @@ import paho.mqtt.client as mqtt
 import time
 import socket
 
-id = 'Me'
-topic = '/tgr2020/jan08/data/#'
+id = 'Vorapojpisut'
+topic = '/tgr2020/pm25/data/44'
 
 def on_connect(client, userdata, flags, rc):
     client.subscribe(topic)
